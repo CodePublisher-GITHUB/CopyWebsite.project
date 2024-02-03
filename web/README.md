@@ -1,2 +1,2 @@
 # Why does the website look terrible?
-github pages made the website secure That's why it looks very ugly.
+GitHub Pages made the website secure That's why it doesn't look lovely...
